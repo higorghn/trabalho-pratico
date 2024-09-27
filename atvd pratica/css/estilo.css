@@ -1,0 +1,38 @@
+/* Global styles */
+body {
+    font-family: Arial, sans-serif; /* Adjust font-family as needed */
+    margin: 1;
+    padding: 1;
+  }
+  
+  .home {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .servico {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .contato{
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .sobre {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
